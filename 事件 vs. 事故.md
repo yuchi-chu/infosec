@@ -1,7 +1,7 @@
+## 資安事件
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
 
 1. **事件**：在系統或網路中所發生任何可被觀察到的活動或情況。例如員工寄送email, 用戶登入時密碼錯誤、防火牆阻擋某個IP、路由器或交換器的ACL更新等。
 
@@ -14,7 +14,9 @@
 在我看來，這在大多數組織中太常見了，不切實際。 在決定使用多寬或多窄的定義時，請考慮所有事件都應產生 IR 響應。 如果您因為每天或每周有成千上萬或數百萬個這樣的人而無法做到這一點，請相應地調整您的定義。
 
 <img src="images/event-1.png" alt="event-1" border="0" width=400/>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ0NzUxNzQsLTE1Nzk3OTY5MDVdfQ
+eyJoaXN0b3J5IjpbLTE1MjgyMjU1MTMsLTE1Nzk3OTY5MDVdfQ
 ==
 -->
