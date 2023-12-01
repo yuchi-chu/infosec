@@ -1,4 +1,4 @@
-## 資安事件
+## 資安事件？資安事故？
 
 
 
@@ -17,6 +17,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjgyMjU1MTMsLTE1Nzk3OTY5MDVdfQ
+eyJoaXN0b3J5IjpbLTE5OTUwMjE1MTcsLTE1Nzk3OTY5MDVdfQ
 ==
 -->
