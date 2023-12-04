@@ -1,6 +1,6 @@
 ## 資安事件？資安事故？
 
->“馬者，所以命形也。白者，所以命色也。命色者，非命形也，故曰白馬非馬。”
+>“馬者，所以命形也。白者，所以命色也。命色者，非命形也，故曰白馬非馬。”  公孫龍（公元前320年－公元前250年）
 
 
 1. **事件**：在系統或網路中所發生任何可被觀察到的活動或情況。例如員工寄送email, 用戶登入時密碼錯誤、防火牆阻擋某個IP、路由器或交換器的ACL更新等。
@@ -17,6 +17,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ2MDYwMzksLTE5OTUwMjE1MTcsLT
+eyJoaXN0b3J5IjpbLTExMTE5MjI0ODEsLTE5OTUwMjE1MTcsLT
 E1Nzk3OTY5MDVdfQ==
 -->
