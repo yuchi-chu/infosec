@@ -1,6 +1,6 @@
 ## 資安事件？資安事故？
 
-
+>
 
 
 1. **事件**：在系統或網路中所發生任何可被觀察到的活動或情況。例如員工寄送email, 用戶登入時密碼錯誤、防火牆阻擋某個IP、路由器或交換器的ACL更新等。
@@ -17,6 +17,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUwMjE1MTcsLTE1Nzk3OTY5MDVdfQ
-==
+eyJoaXN0b3J5IjpbLTE1MTg2MjA0MTMsLTE5OTUwMjE1MTcsLT
+E1Nzk3OTY5MDVdfQ==
 -->
