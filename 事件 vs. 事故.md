@@ -15,8 +15,3 @@
 
 <img src="images/event-1.png" alt="event-1" border="0" width=400/>
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTY3NzQ3MSwxNTI4MDQxMjI5LC0xOT
-k1MDIxNTE3LC0xNTc5Nzk2OTA1XX0=
--->
